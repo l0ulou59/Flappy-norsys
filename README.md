@@ -1,4 +1,4 @@
- 
+  > Bonjour, il s'agit d'un jeu vidéo fait pendant mon stage utilisant du **JavaScript** et du **no-code** sous forme de blocs
 
 
 > Ouvrir cette page à [https://l0ulou59.github.io/flappy-norsys/](https://l0ulou59.github.io/flappy-norsys/)
